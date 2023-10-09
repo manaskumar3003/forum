@@ -18,8 +18,8 @@ export default function Card(){
     </div>
 
     <div class="mt-4 mb-6">
-      <div class="mb-3 text-xl font-bold">Nulla sed leo tempus, feugiat velit vel, rhoncus neque?</div>
-      <div class="text-sm text-neutral-600">Aliquam a tristique sapien, nec bibendum urna. Maecenas convallis dignissim turpis, non suscipit mauris interdum at. Morbi sed gravida nisl, a pharetra nulla. Etiam tincidunt turpis leo, ut mollis ipsum consectetur quis. Etiam faucibus est risus, ac condimentum mauris consequat nec. Curabitur eget feugiat massa</div>
+      <div class="mb-3 text-xl font-bold">how come gdsc so good??</div>
+      <div class="text-sm text-neutral-600">I hope you're all doing well. I have a question regarding gdsc. I've been trying to , but I'm facing some challenges.</div>
     </div>
 
     <div>
